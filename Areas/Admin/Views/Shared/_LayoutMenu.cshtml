@@ -1,0 +1,68 @@
+﻿@using BTL_LTWeb.Areas.Admin.Data;
+
+<div id="layoutSidenav_nav">
+    <nav class="sb-sidenav accordion sb-sidenav-dark" id="sidenavAccordion">
+        <div class="sb-sidenav-menu">
+            <div class="nav">
+                <div class="sb-sidenav-menu-heading">Home</div>
+                <a class="nav-link" href="/Admin/Home/Index">
+                    <div class="sb-nav-link-icon"><i class="fas fa-home"></i></div>
+                    Home
+                </a>
+
+                <div class="sb-sidenav-menu-heading">Data</div>
+                <a class="nav-link collapsed" href="/Admin/Admin/Index">
+                    <div class="sb-nav-link-icon"><i class="fa-solid fa-lock"></i></div>
+                    Administrator
+                </a>
+
+                <a class="nav-link collapsed" href="/Admin/Category/Index">
+                    <div class="sb-nav-link-icon"><i class="fas fa-book-open"></i></div>
+                    Category
+
+                </a>
+
+                <a class="nav-link collapsed" href="/Admin/User/Index">
+                    <div class="sb-nav-link-icon"><i class="fa-solid fa-user"></i></div>
+                    User
+                </a>
+
+                <a class="nav-link collapsed" href="/Admin/Product/Index">
+                    <div class="sb-nav-link-icon"><i class="fa-brands fa-product-hunt"></i></div>
+                    Product
+                </a>
+
+                <a class="nav-link collapsed" href="/Admin/Transactions/Index">
+                    <div class="sb-nav-link-icon"><i class="fa-solid fa-arrows-rotate"></i></div>
+                    Transactions
+                </a>
+
+                <a class="nav-link collapsed" href="/Admin/Order/Index">
+                    <div class="sb-nav-link-icon"><i class="fa-solid fa-cart-arrow-down"></i></div>
+                    Order
+                </a>
+
+            </div>
+        </div>
+        <div class="sb-sidenav-footer">
+            @{
+                var session = (AdminSession)Session[Constant.ADMIN_SESSION];
+            }
+            @if (session == null)
+            {
+                <div class="small">Logged in as:</div>
+                <h6>
+                    Admin
+                </h6>
+            }
+            else
+            {
+                <div class="small">Logged in as:</div>
+                <h6>
+                    @session.Name
+                </h6>
+            }
+
+        </div>
+    </nav>
+</div>

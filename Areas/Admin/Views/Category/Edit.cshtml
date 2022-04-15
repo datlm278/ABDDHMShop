@@ -1,0 +1,43 @@
+﻿@model BTL_LTWeb.Models.EF.Catalog
+
+@{
+    ViewBag.Title = "Category edit";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+
+@using (Html.BeginForm("Edit", "Category", FormMethod.Post))
+{
+    <div class="card-header"><h3 class="text-center font-weight-light my-4">Category edit</h3></div>
+
+    <div class="card-body">
+        <div class="form-horizontal">
+            @Html.AntiForgeryToken()
+
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="form-group">
+                @Html.LabelFor(model => model.id, htmlAttributes: new { @readonly = "true", @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.id, new { @readonly = "true",  @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.id, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.name, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.name, new  { @class = "form-control" } )
+                    @Html.ValidationMessageFor(model => model.name, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <button type="submit" value="Edit" class="btn btn-primary" style="margin-top: 10px">Edit</button>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+

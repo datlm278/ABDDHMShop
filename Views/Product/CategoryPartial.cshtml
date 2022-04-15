@@ -1,0 +1,11 @@
+﻿@using BTL_LTWeb.Models.EF
+@model List<Catalog>
+
+@foreach (var item in Model)
+{
+    <li>
+        <a href="@Url.Action("FilterProductByCategory", "Product", new {@id = item.id})">
+            @item.name
+        </a>
+    </li>
+}

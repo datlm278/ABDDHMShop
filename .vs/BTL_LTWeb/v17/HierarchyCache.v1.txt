@@ -1,0 +1,612 @@
+﻿++Solution 'BTL_LTWeb' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:BTL_LTWeb.sln
+++BTL_LTWeb
+i:{00000000-0000-0000-0000-000000000000}:BTL_LTWeb
+++Properties
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\properties\
+++References
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++App_Data
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\app_data\
+++App_Start
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\app_start\
+++Areas
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\
+++Admin
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\views\admin\
+++Controllers
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\controllers\
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\controllers\
+++AdminController.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\controllers\admincontroller.cs
+++BaseController.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\controllers\basecontroller.cs
+++CategoryController.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\controllers\categorycontroller.cs
+++HomeController.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\controllers\homecontroller.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\controllers\homecontroller.cs
+++LoginController.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\controllers\logincontroller.cs
+++ProductController.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\controllers\productcontroller.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\controllers\productcontroller.cs
+++UserController.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\controllers\usercontroller.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\controllers\usercontroller.cs
+++Data
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\data\
+++AdminSession.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\data\adminsession.cs
+++Constant.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\data\constant.cs
+++Models
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\models\
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\models\
+++Views
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\views\
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\views\
+++Category
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\views\category\
+++Home
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\views\home\
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\views\home\
+++Index.cshtml
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\views\home\index.cshtml
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\views\login\index.cshtml
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\views\home\index.cshtml
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\views\admin\index.cshtml
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\views\category\index.cshtml
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\views\product\index.cshtml
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\views\user\index.cshtml
+++Login
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\views\login\
+++Product
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\views\product\
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\views\product\
+++Shared
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\views\shared\
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\views\shared\
+++User
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\views\user\
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\views\user\
+++_ViewStart.cshtml
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\views\_viewstart.cshtml
+++web.config
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\views\web.config
+++AdminAreaRegistration.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\adminarearegistration.cs
+++Asset
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\
+++Content
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\content\
+++CartController.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\controllers\cartcontroller.cs
+++DAO
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\dao\
+++AdminDAO.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\dao\admindao.cs
+++CategoryDAO.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\dao\categorydao.cs
+++DbContext.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\dao\dbcontext.cs
+++ProductDAO.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\dao\productdao.cs
+++UserDAO.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\dao\userdao.cs
+++fonts
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\fonts\
+++EF
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\models\ef\
+++Administrator.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\models\ef\administrator.cs
+++Catalog.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\models\ef\catalog.cs
+++Order.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\models\ef\order.cs
+++Product.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\models\ef\product.cs
+++Transaction.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\models\ef\transaction.cs
+++User.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\models\ef\user.cs
+++WebBanHangDbContext.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\models\ef\webbanhangdbcontext.cs
+++Cart.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\models\cart.cs
+++LoginModel.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\models\loginmodel.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\models\loginmodel.cs
+++RegisterModel.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\models\registermodel.cs
+++Scripts
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\scripts\
+++Cart
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\views\cart\
+++Cart.cshtml
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\views\cart\cart.cshtml
+++Update.cshtml
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\views\cart\update.cshtml
+++CategoryPartial.cshtml
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\views\product\categorypartial.cshtml
+++FilterProductByCategory.cshtml
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\views\product\filterproductbycategory.cshtml
+++ProductDetails.cshtml
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\views\product\productdetails.cshtml
+++_Layout.cshtml
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\views\shared\_layout.cshtml
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\views\shared\_layout.cshtml
+++Login.cshtml
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\views\user\login.cshtml
+++Register.cshtml
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\views\user\register.cshtml
+++Web.config
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\views\web.config
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\web.config
+++Encryptor.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\encryptor.cs
+++favicon.ico
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\favicon.ico
+++Global.asax
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\global.asax
+++packages.config
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\packages.config
+++AssemblyInfo.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\properties\assemblyinfo.cs
+++Antlr3.Runtime
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++EntityFramework
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++EntityFramework.SqlServer
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++Microsoft.CSharp
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++Microsoft.Web.Infrastructure
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++Newtonsoft.Json
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++PagedList
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++PagedList.Mvc
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++System
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++System.ComponentModel.DataAnnotations
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++System.Configuration
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++System.Core
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++System.Data
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++System.Data.DataSetExtensions
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++System.Drawing
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++System.EnterpriseServices
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++System.Net.Http
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++System.Net.Http.WebRequest
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++System.Runtime.Serialization
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++System.Security
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++System.Web
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++System.Web.Abstractions
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++System.Web.ApplicationServices
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++System.Web.DynamicData
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++System.Web.Entity
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++System.Web.Extensions
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++System.Web.Helpers
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++System.Web.Mvc
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++System.Web.Optimization
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++System.Web.Razor
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++System.Web.Routing
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++System.Web.Services
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++System.Web.WebPages
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++System.Web.WebPages.Deployment
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++System.Web.WebPages.Razor
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++System.Xml
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++System.Xml.Linq
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++WebGrease
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:
+++BundleConfig.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\app_start\bundleconfig.cs
+++FilterConfig.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\app_start\filterconfig.cs
+++RouteConfig.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\app_start\routeconfig.cs
+++Create.cshtml
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\views\admin\create.cshtml
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\views\category\create.cshtml
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\views\product\create.cshtml
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\views\user\create.cshtml
+++Delete.cshtml
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\views\admin\delete.cshtml
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\views\category\delete.cshtml
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\views\product\delete.cshtml
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\views\user\delete.cshtml
+++Edit.cshtml
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\views\admin\edit.cshtml
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\views\category\edit.cshtml
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\views\product\edit.cshtml
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\views\user\edit.cshtml
+++_LayoutMenu.cshtml
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\areas\admin\views\shared\_layoutmenu.cshtml
+++admin
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\admin\
+++client
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\
+++bootstrap-theme.css
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\content\bootstrap.css
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\bootstrap\css\bootstrap.css
+++bootstrap.css.map
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\content\bootstrap.css.map
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\bootstrap\css\bootstrap.css.map
+++bootstrap.min.css
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\content\bootstrap.min.css
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\bootstrap\css\bootstrap.min.css
+++bootstrap.min.css.map
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\content\bootstrap.min.css.map
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\bootstrap\css\bootstrap.min.css.map
+++PagedList.css
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\content\pagedlist.css
+++Site.css
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\content\site.css
+++glyphicons-halflings-regular.eot
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\fonts\glyphicons-halflings-regular.woff2
+++bootstrap.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\scripts\bootstrap.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\bootstrap\js\bootstrap.js
+++bootstrap.min.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\scripts\bootstrap.min.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\bootstrap\js\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\scripts\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\scripts\jquery-3.4.1.slim.min.map
+++jquery.unobtrusive-ajax.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\scripts\jquery.unobtrusive-ajax.js
+++jquery.unobtrusive-ajax.min.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\scripts\jquery.unobtrusive-ajax.min.js
+++jquery.validate-vsdoc.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\scripts\jquery.validate-vsdoc.js
+++jquery.validate.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\scripts\jquery.validate.js
+++jquery.validate.min.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\scripts\jquery.validate.min.js
+++jquery.validate.unobtrusive.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\scripts\jquery.validate.unobtrusive.js
+++jquery.validate.unobtrusive.min.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\scripts\jquery.validate.unobtrusive.min.js
+++modernizr-2.8.3.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\scripts\modernizr-2.8.3.js
+++Global.asax.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\global.asax.cs
+++Web.Debug.config
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\web.debug.config
+++Web.Release.config
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\web.release.config
+++css
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\admin\css\
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\bootstrap\css\
+++demo
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\admin\demo\
+++img
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\admin\img\
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\
+++js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\admin\js\
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\js\
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\bootstrap\js\
+++bootstrap
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\bootstrap\
+++webfonts
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\webfonts\
+++styles.css
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\admin\css\styles.css
+++chart-area-demo.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\admin\demo\chart-area-demo.js
+++chart-bar-demo.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\admin\demo\chart-bar-demo.js
+++chart-pie-demo.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\admin\demo\chart-pie-demo.js
+++datatables-demo.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\admin\demo\datatables-demo.js
+++error-404-monochrome.svg
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\admin\img\error-404-monochrome.svg
+++datatables-simple-demo.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\admin\js\datatables-simple-demo.js
+++scripts.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\admin\js\scripts.js
+++scss
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\scss\
+++all.min.css
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\all.min.css
+++animate.css
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\animate.css
+++login.css
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\login.css
+++magnific-popup.css
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\magnific-popup.css
+++main.css
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\main.css
+++meanmenu.min.css
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\meanmenu.min.css
+++owl.carousel.css
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\owl.carousel.css
+++responsive.css
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\responsive.css
+++avaters
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\avaters\
+++company-logos
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\company-logos\
+++latest-news
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\latest-news\
+++products
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\products\
+++team
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\team\
+++1.jpg
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\1.jpg
+++a.jpg
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\a.jpg
+++abt.jpg
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\abt.jpg
+++breadcrumb-bg.jpg
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\breadcrumb-bg.jpg
+++dd.jpg
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\dd.jpg
+++favicon.png
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\favicon.png
+++feature-bg.jpg
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\feature-bg.jpg
+++hero-bg-2.jpg
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\hero-bg-2.jpg
+++hero-bg-3.jpg
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\hero-bg-3.jpg
+++hero-bg.jpg
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\hero-bg.jpg
+++homepage-bg-pattern.png
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\homepage-bg-pattern.png
+++logo.png
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\logo.png
+++form-validate.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\js\form-validate.js
+++jquery-1.11.3.min.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\js\jquery-1.11.3.min.js
+++jquery.countdown.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\js\jquery.countdown.js
+++jquery.isotope-3.0.6.min.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\js\jquery.isotope-3.0.6.min.js
+++jquery.magnific-popup.min.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\js\jquery.magnific-popup.min.js
+++jquery.meanmenu.min.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\js\jquery.meanmenu.min.js
+++login.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\js\login.js
+++main.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\js\main.js
+++owl.carousel.min.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\js\owl.carousel.min.js
+++sticker.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\js\sticker.js
+++waypoints.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\js\waypoints.js
+++fa-brands-400.eot
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\webfonts\fa-brands-400.eot
+++fa-brands-400.eot_
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\webfonts\fa-brands-400.eot_
+++fa-brands-400.svg
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\webfonts\fa-brands-400.svg
+++fa-brands-400.ttf
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\webfonts\fa-brands-400.ttf
+++fa-brands-400.woff
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\webfonts\fa-brands-400.woff
+++fa-brands-400.woff2
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\webfonts\fa-brands-400.woff2
+++fa-regular-400.eot
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\webfonts\fa-regular-400.eot
+++fa-regular-400.eot_
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\webfonts\fa-regular-400.eot_
+++fa-regular-400.svg
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\webfonts\fa-regular-400.svg
+++fa-regular-400.ttf
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\webfonts\fa-regular-400.ttf
+++fa-regular-400.woff
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\webfonts\fa-regular-400.woff
+++fa-regular-400.woff2
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\webfonts\fa-regular-400.woff2
+++fa-solid-900.eot
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\webfonts\fa-solid-900.eot
+++fa-solid-900.eot_
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\webfonts\fa-solid-900.eot_
+++fa-solid-900.svg
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\webfonts\fa-solid-900.svg
+++fa-solid-900.ttf
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\webfonts\fa-solid-900.ttf
+++fa-solid-900.woff
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\webfonts\fa-solid-900.woff
+++fa-solid-900.woff2
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\webfonts\fa-solid-900.woff2
+++bootstrap-grid.css
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\bootstrap\css\bootstrap-grid.css
+++bootstrap-grid.css.map
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\bootstrap\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\bootstrap\css\bootstrap-grid.min.css
+++bootstrap-grid.min.css.map
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\bootstrap\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.css
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\bootstrap\css\bootstrap-reboot.css
+++bootstrap-reboot.css.map
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\bootstrap\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\bootstrap\css\bootstrap-reboot.min.css
+++bootstrap-reboot.min.css.map
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\bootstrap\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\bootstrap\js\bootstrap.bundle.js
+++bootstrap.bundle.js.map
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\bootstrap\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\bootstrap\js\bootstrap.bundle.min.js
+++bootstrap.bundle.min.js.map
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\bootstrap\js\bootstrap.bundle.min.js.map
+++bootstrap.js.map
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\bootstrap\js\bootstrap.js.map
+++bootstrap.min.js.map
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\bootstrap\js\bootstrap.min.js.map
+++base
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\scss\base\
+++common
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\scss\common\
+++pages
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\scss\pages\
+++sections
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\scss\sections\
+++main.scss
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\scss\main.scss
+++prepros-6.config
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\scss\prepros-6.config
+++avatar.png
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\avaters\avatar.png
+++avatar1.png
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\avaters\avatar1.png
+++avatar2.png
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\avaters\avatar2.png
+++avatar3.png
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\avaters\avatar3.png
+++1.png
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\company-logos\1.png
+++2.png
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\company-logos\2.png
+++3.png
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\company-logos\3.png
+++4.png
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\company-logos\4.png
+++5.png
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\company-logos\5.png
+++news-bg-1.jpg
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\latest-news\news-bg-1.jpg
+++news-bg-2.jpg
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\latest-news\news-bg-2.jpg
+++news-bg-3.jpg
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\latest-news\news-bg-3.jpg
+++news-bg-4.jpg
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\latest-news\news-bg-4.jpg
+++news-bg-5.jpg
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\latest-news\news-bg-5.jpg
+++news-bg-6.jpg
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\latest-news\news-bg-6.jpg
+++product-img-1.jpg
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\products\product-img-1.jpg
+++product-img-2.jpg
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\products\product-img-2.jpg
+++product-img-3.jpg
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\products\product-img-3.jpg
+++product-img-4.jpg
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\products\product-img-4.jpg
+++product-img-5.jpg
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\products\product-img-5.jpg
+++product-img-6.jpg
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\products\product-img-6.jpg
+++team-1.jpg
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\team\team-1.jpg
+++team-2.jpg
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\team\team-2.jpg
+++team-3.jpg
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\img\team\team-3.jpg
+++_mixins.scss
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\scss\base\_mixins.scss
+++_typography.scss
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\scss\base\_typography.scss
+++_variables.scss
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\scss\base\_variables.scss
+++_common.scss
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\scss\common\_common.scss
+++_footer.scss
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\scss\common\_footer.scss
+++_header.scss
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\scss\common\_header.scss
+++_hover.scss
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\scss\common\_hover.scss
+++_404.css
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\scss\pages\_404.css
+++_404.scss
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\scss\pages\_404.scss
+++_about.scss
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\scss\pages\_about.scss
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\scss\sections\_about.scss
+++_contact.scss
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\scss\pages\_contact.scss
+++_shop.scss
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\scss\pages\_shop.scss
+++_cart-banner.scss
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\scss\sections\_cart-banner.scss
+++_hero.scss
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\scss\sections\_hero.scss
+++_list.scss
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\scss\sections\_list.scss
+++_news.scss
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\scss\sections\_news.scss
+++_shop-banner.scss
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\scss\sections\_shop-banner.scss
+++_testimonials.scss
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\asset\client\css\scss\sections\_testimonials.scss
+++ProductDetailsPartial.cshtml
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\views\product\productdetailspartial.cshtml
+++NewFolder1
+++Session
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\session\
+++UserSession.cs
+i:{73e1527f-d7e0-4752-aeff-ac96ed51f1e6}:d:\code\lập trình web\project\btl_ltweb\session\usersession.cs

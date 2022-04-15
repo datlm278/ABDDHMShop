@@ -1,0 +1,161 @@
+﻿@using BTL_LTWeb.Models.EF
+@model List<Product>
+@{
+    ViewBag.Title = "Home";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="hero-area hero-bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-9 offset-lg-2 text-center">
+                    <div class="hero-text">
+                        <div class="hero-text-tablecell">
+                            <p class="subtitle">Welcome</p>
+                            <h1>ABDDHM Shop</h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+</div>
+<div class="product-section mt-150 mb-150">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 offset-lg-2 text-center">
+                <div class="section-title">
+                    <h3><span class="orange-text">Our</span> Products</h3>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                        Aliquid, fuga quas itaque eveniet beatae optio.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+        @{
+            foreach (var item in Model)
+            {
+                <div class="col-lg-4 col-md-6 text-center">
+                    <div class="single-product-item">
+                        <div class="product-image">
+                            <a href="@Url.Action("ProductDetails", "Product", new { @id = item.id })">
+                                <img src="@Url.Content("~/Asset/client/img/products/" + item.image_link)" width="250px" height="250px"/>
+                            </a>
+                        </div>
+                        <h3>@item.name</h3>
+                        <p class="product-price"><span>@item.Catalog.name</span> @string.Format("{0:0.##}", item.price) $</p>
+                        <a href="@Url.Action("ProductDetails", "Product", new { @id = item.id })" class="cart-btn"> View Details</a>
+                    </div>
+                </div>
+            }   
+        }
+        </div>
+    </div>
+</div>
+<div class="testimonail-section mt-150 mb-150">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10 offset-lg-1 text-center">
+                <div class="testimonial-sliders">
+                    <div class="single-testimonial-slider">
+                        <div class="client-avater">
+                            <img src="~/Asset/client/img/avaters/avatar.png" />
+                        </div>
+                        <div class="client-meta">
+                            <h3>Pham Tien Anh <span>Local shop owner</span></h3>
+                            <p class="testimonial-body">
+                                "Lorem ipsum dolor sit amet, consectetur adip"
+                            </p>
+                            <div class="last-icon">
+                                <i class="fas fa-quote-right"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="single-testimonial-slider">
+                        <div class="client-avater">
+                            <img src="~/Asset/client/img/avaters/avatar.png" />
+                        </div>
+                        <div class="client-meta">
+                            <h3>Nguyen Xuan Bach <span>Marketing</span></h3>
+                            <p class="testimonial-body">
+                                "Lorem Ipsum is Lorem ipsum dolor sit amet et metus. Lorem
+                                ipsum dolor sit"
+                            </p>
+                            <div class="last-icon">
+                                <i class="fas fa-quote-right"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="single-testimonial-slider">
+                        <div class="client-avater">
+                            <img src="~/Asset/client/img/avaters/avatar.png" />
+                        </div>
+                        <div class="client-meta">
+                            <h3>Dao Ngoc Duy <span>Local shop owner</span></h3>
+                            <p class="testimonial-body">
+                                " Sed ut perspiciatis unde omnis iste natus error veritatis
+                                et quasi architecto beatae vitae dict eaque ipsa quae ab
+                                illo inventore Sed ut perspiciatis unde omnis iste natus
+                                error sit voluptatem accusantium "
+                            </p>
+                            <div class="last-icon">
+                                <i class="fas fa-quote-right"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="single-testimonial-slider">
+                        <div class="client-avater">
+                            <img src="~/Asset/client/img/avaters/avatar.png" />
+                        </div>
+                        <div class="client-meta">
+                            <h3>Le Minh Dat <span>CEO</span></h3>
+                            <p class="testimonial-body">
+                                " Sed ut perspiciatis unde omnis iste natus error veritatis
+                                et quasi architecto beatae vitae dict eaque ipsa quae ab
+                                illo inventore Sed ut perspiciatis unde omnis iste natus
+                                error sit voluptatem accusantium "
+                            </p>
+                            <div class="last-icon">
+                                <i class="fas fa-quote-right"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="single-testimonial-slider">
+                        <div class="client-avater">
+                            <img src="~/Asset/client/img/avaters/avatar.png" />
+                        </div>
+                        <div class="client-meta">
+                            <h3>Pham Tien Hai <span>Local shop owner</span></h3>
+                            <p class="testimonial-body">
+                                " Sed ut perspiciatis unde omnis iste natus error veritatis
+                                et quasi architecto beatae vitae dict eaque ipsa quae ab
+                                illo inventore Sed ut perspiciatis unde omnis iste natus
+                                error sit voluptatem accusantium "
+                            </p>
+                            <div class="last-icon">
+                                <i class="fas fa-quote-right"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="single-testimonial-slider">
+                        <div class="client-avater">
+                            <img src="~/Asset/client/img/avaters/avatar.png" />
+                        </div>
+                        <div class="client-meta">
+                            <h3>Pham Viet Hoang Minh <span>Shop owner</span></h3>
+                            <p class="testimonial-body">
+                                " Sed ut perspiciatis unde omnis iste natus error veritatis
+                                et quasi architecto beatae vitae dict eaque ipsa quae ab
+                                illo inventore Sed ut perspiciatis unde omnis iste natus
+                                error sit voluptatem accusantium "
+                            </p>
+                            <div class="last-icon">
+                                <i class="fas fa-quote-right"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

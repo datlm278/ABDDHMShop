@@ -1,0 +1,57 @@
+﻿@model List<BTL_LTWeb.Models.EF.Product>
+
+@{
+    ViewBag.Title = "FilterProductByCategory";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="breadcrumb-section breadcrumb-bg">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 offset-lg-2 text-center">
+                <div class="breadcrumb-text">
+                    <p>Fresh and Organic</p>
+                    <h1>Product</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="product-section mt-150 mb-150">
+    <div class="container">
+        @if (Model.Count == 0)
+        {
+            <div class="text-center">
+                <div class="section-title">
+                    <h3 class="orange-text">
+                        @ViewBag.products
+                    </h3>
+                </div>
+            </div>
+        }
+        else
+        {
+            <div class="row">
+
+                @foreach (var item in Model)
+                {
+                    <div class="col-lg-4 col-md-6 text-center">
+                        <div class="single-product-item">
+                            <div class="product-image">
+                                <a href="@Url.Action("ProductDetails", "Product", new { @id = item.id })">
+                                    <img src="@Url.Content("~/Asset/client/img/products/" + item.image_link)" />
+                                </a>
+                            </div>
+                            <h3>@item.name</h3>
+                            <p class="product-price"><span>@item.Catalog.name</span> @string.Format("{0:0.##}", item.price)$</p>
+                            <a href="@Url.Action("ProductDetails", "Product", new { @id = item.id })" class="cart-btn">View Details</a>
+                        </div>
+                    </div>
+                }
+            </div>
+
+        }
+    </div>
+</div>
+
